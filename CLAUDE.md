@@ -8,7 +8,7 @@ A collection of browser-playable web games and projects. Each project is a self-
 
 ## Git workflow
 
-Every change must be committed and pushed to GitHub (https://github.com/maheshanand87/ClaudeCodeTest):
+After every code change, commit and push to GitHub (https://github.com/maheshanand87/ClaudeCodeTest) before reporting the task as done:
 
 ```bash
 git add <file>
@@ -16,7 +16,7 @@ git commit -m "Descriptive message"
 git push
 ```
 
-Use clean, descriptive commit messages that explain what changed and why. Always push after committing so GitHub stays current.
+Use clean, descriptive commit messages that explain what changed and why. Do not batch multiple changes into one commit — commit and push each logical change as it is completed.
 
 ## Project conventions
 
